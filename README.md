@@ -6,7 +6,7 @@ Care-Wise is an AI-powered multilingual health assistant that helps users descri
 
 ## Features
 
--  **Symptom-based AI Chatbot** using Gemini Pro (Gemini 2.0 Flash)
+-  **Symptom-based AI Chatbot** using Gemini Pro (Gemini 3.0 Flash)
 -  **Multilingual Support** – English, Hindi (हिन्दी), Tamil(தமிழ்) ,Telugu (తెలుగు)
 -  **Voice Input** using Speech Recognition
 -  **WhatsApp Integration** via Twilio API(under development)
